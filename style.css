@@ -6,7 +6,7 @@
 :root {
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
-    --botao-azul: #167BF7;
+    --botao-vermelho: #EC2F46;
     --cor-de-fundo: #00030C;
     --fonte-principal: 'Inter';
 }
@@ -47,7 +47,7 @@ body {
 }
 
 .conteiner__botao {
-    background-color: var(--botao-azul);
+    background-color: var(--botao-vermelho);
     text-decoration: none;
     color: var(--branco-principal);
     padding: 1em;
@@ -116,4 +116,36 @@ body {
 .lista__item {
     font-size: 2em;
     color: var(--branco-principal);
+}
+
+.rodape {
+    text-align: center;
+    margin: 8em 3em 3em 5em;
+}
+
+.rodape__lista {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 3rem 0 2rem 0;
+}
+
+.lista__link a{
+    text-decoration: none;
+    color: var(--branco-principal);
+    margin-left: 1em;
+}
+
+.rodape__texto {
+    color: var(--cinza-secundario);
+    font-size: 0.875rem;
+    padding-bottom: 1rem;
+}
+
+.lista__link a:hover {
+    color: var(--botao-vermelho)
+}
+
+.lista__link a:active {
+    color: yellow
 }
