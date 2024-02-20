@@ -18,7 +18,7 @@ Veja o primeiro projeto 👉 [Clique aqui](https://github.com/LucasCatuyama/Alur
 </p>
 
 Veja no Vercel 👉 [Alura Plus - Vercel](https://alura-aluraplus-lucascatuyama.vercel.app/) <br>
-Veja no Github Pages 👉 [Alura Plus - Github Pages](https://lucascatuyama.github.io/Alura_aluraplus/)
+Veja no Github Pages 👉 [Alura Plus - Github Pages](https://lucascatuyama.github.io/Alura-aluraplus/)
 
 ## Curso relacionado:
 - HTML e CSS: praticando HTML/CSS (Alura)
