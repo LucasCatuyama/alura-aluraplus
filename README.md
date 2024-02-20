@@ -22,7 +22,7 @@ Check out the first project 👉 [Click here](https://github.com/LucasCatuyama/A
 </p>
 
 Check it out on Vercel 👉 [Alura Plus - Vercel](https://alura-aluraplus-lucascatuyama.vercel.app/) <br>
-Check it out on Github Pages 👉 [Alura Plus - Github Pages](https://lucascatuyama.github.io/Alura_aluraplus/)
+Check it out on Github Pages 👉 [Alura Plus - Github Pages](https://lucascatuyama.github.io/Alura-aluraplus/)
 
 ## Related Course:
 - HTML and CSS: practicing HTML/CSS (Alura)
