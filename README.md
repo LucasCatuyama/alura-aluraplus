@@ -1,7 +1,3 @@
-[![Language: English](https://img.shields.io/badge/Language-English-blue.svg)](README.md)
-
-LEIA EM PORTUGUÊS 👉 [Clique aqui](https://github.com/LucasCatuyama/Alura_aluraplus/blob/master/README-pt-br.md)
-
 # About this Project
 
 This is the second front-end project developed during the "From Scratch: HTML and CSS for Web Projects" course offered by Alura, taught by Guilherme Lima, @rafaballerini, and @MonicaHillman.
@@ -10,7 +6,7 @@ This is the second front-end project developed during the "From Scratch: HTML an
 
 The objective of this project is to create a page for a fictional streaming service called "Alura Plus," reinforcing the concepts learned in the first part of the course.
 
-Check out the first project 👉 [Click here](https://github.com/LucasCatuyama/Alura-my-portfolio-page-from-scratch)
+Check out the first project 👉 [Click here](https://github.com/LucasCatuyama/alura-aluraplus)
 
 ## Project Status
 
