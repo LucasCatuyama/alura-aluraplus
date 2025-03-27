@@ -21,7 +21,7 @@ Check out the first project 👉 [Click here](https://github.com/LucasCatuyama/A
   <img src="https://github.com/LucasCatuyama/Alura_aluraplus/assets/67424170/28b40e06-b60b-4858-ab54-23dc9f6c574c" height="3000" alt="Image Description">
 </p>
 
-Check it out on Github Pages 👉 [Alura Plus - Github Pages]([https://lucascatuyama.github.io/Alura-aluraplus/](https://lucascatuyama.github.io/alura-aluraplus/))
+Check it out on Github Pages 👉 [Alura Plus - Github Pages](https://lucascatuyama.github.io/alura-aluraplus/)
 
 ## Related Course:
 - HTML and CSS: practicing HTML/CSS (Alura)
