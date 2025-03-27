@@ -6,8 +6,6 @@ This is the second front-end project developed during the "From Scratch: HTML an
 
 The objective of this project is to create a page for a fictional streaming service called "Alura Plus," reinforcing the concepts learned in the first part of the course.
 
-Check out the first project 👉 [Click here](https://github.com/LucasCatuyama/alura-aluraplus)
-
 ## Project Status
 
 ✔️ Completed
